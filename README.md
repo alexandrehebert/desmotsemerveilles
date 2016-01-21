@@ -4,7 +4,7 @@
 
 ---
 
-* 001 - [Disruptif](20151030_disruptif.md) : #Rupture
+* 001 - [Disruptif](20151030-disruptif.md) : #Rupture
 * 002 - [D'adorer à abhorrer](20151108-d_adorer_a_abhorrer.md) : #Indifférence
 * 003 - [Arythmie](20151109-arythmie.md) : #Dépression
 * 004 - [Consommé](20151111-consomme.md) : #Culbute
@@ -19,3 +19,6 @@
 ---
 
 > Albert de Rhenaxe
+
+https://github.com/alexandrehebert/desmotsemerveilles/blob/master/20151030-disruptif.md
+https://github.com/alexandrehebert/desmotsemerveilles/blob/master/20151030_disruptif.md
