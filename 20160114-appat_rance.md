@@ -1,7 +1,5 @@
 # Appât rance
 
----
-
 Boiteux de nuit et boîte nuit.  
 
 Aux mille lieux de la nuit  
@@ -30,8 +28,6 @@ De beaux culs main tient.
 Quel câlin portant, quelle catin portée  
 Cette bien-partante qu'un galant porte !  
 Délicieux de-ci ou de-là délictueux ?  
-
----
 
 > Des coquins que bandent  
 > Des bancs de culs.  

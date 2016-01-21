@@ -1,7 +1,5 @@
 # Disruptif
 
----
-
 Dans un déni douillet,  
 Qu'il n'aie daigné narrer n'aide en rien.  
 Navré qu'elle aie nuit,  
@@ -14,8 +12,6 @@ Unis un temps, l'un chez l'autre a lassé.
 À raison l'arrêt sonne ou résonne la raison.  
 Déraison arraisonne.  
 Des raisons désarçonnent.  
-
----
 
 > Un penseur que dépense  
 > Une pensée qui panse.  

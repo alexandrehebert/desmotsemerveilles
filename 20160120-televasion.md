@@ -1,7 +1,5 @@
 # Télévasion
 
----
-
 Le petit écran est intarissable  
 Et l'appétit d'écran  
 Une tare insatiable  
@@ -23,8 +21,6 @@ De telles irréalités abreuvent
 Les téléspectateurs.  
 Lesdits illettrés s'émeuvent ;  
 L'indécis lettré réprouve.  
-
----
 
 > Veules qu'écervellent  
 > Vils cerveaux.  

@@ -1,7 +1,5 @@
 # Emoi sonne
 
----
-
 De brisées vitrines, débris et victimes.  
 Êtres inanimés et êtres unanimes :  
 Le monde récrie ces crimes immondes.  
@@ -49,8 +47,6 @@ Des maux aux mots.
 Les grands mots sont remède.  
 De l'erreur à l'horreur.  
 Et l'horreur est humaine.  
-
----
 
 > Un État qui déplore  
 > Un tas de pleurs.  

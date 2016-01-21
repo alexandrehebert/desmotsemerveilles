@@ -1,7 +1,5 @@
 # Levée d'encre
 
----
-
 Le coeur, cet ouvrage.  
 Quand vient l'orage,  
 Deux voix s'y marrent :  
@@ -26,8 +24,6 @@ Je laisse faire.
 
 Le baume voile  
 Ce que violence dévoile.  
-
----
 
 > Un vieux qu'averse  
 > Des pieux adverses.  
