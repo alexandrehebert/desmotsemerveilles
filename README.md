@@ -19,6 +19,3 @@
 ---
 
 > Albert de Rhenaxe
-
-https://github.com/alexandrehebert/desmotsemerveilles/blob/master/20151030-disruptif.md
-https://github.com/alexandrehebert/desmotsemerveilles/blob/master/20151030_disruptif.md
